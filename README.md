@@ -5,7 +5,8 @@ A personal finance expenses analysis using Excel to track, categorize, and visua
 The goal of this project is to track, analyze, and visualize personal financial performance over a selected period, focusing on income, expenses, spending habits, and account usage.
 The dashboard helps identify high-spending categories, compare expenses against income, and provide actionable insights for better financial management.
 ________________________________________
-# 2. Dataset Used
+# 2. Dataset Used 
+[![Screenshot-2025-08-09-141756.jpg](https://i.postimg.cc/Gm4kLV5w/Screenshot-2025-08-09-141756.jpg)](https://postimg.cc/gxPw4SpN)
 ________________________________________
 # 3. Questions (KPIs)
   1.	Income vs Expenses – How much am I earning compared to how much I spend?
